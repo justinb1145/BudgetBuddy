@@ -62,9 +62,3 @@ Table reports {
 ## Add the Entity Relationship Diagram
 
 [![image](https://github.com/user-attachments/assets/a90c4dde-3668-4277-afb9-7df23533b015)]
-
-| Column Name | Type | Description |
-|-------------|------|-------------|
-| id | integer | primary key |
-| name | text | name of the shoe model |
-| ... | ... | ... |
